@@ -7,10 +7,10 @@ import joblib
 # Load Saved Files
 # -----------------------------
 
-lr_model = joblib.load("lr_model.pkl")
-ann_model = joblib.load("ann_model.pkl")
-scaler = joblib.load("scaler.pkl")
-columns = joblib.load("columns.pkl")
+lr_model = joblib.load("IDS_Dashboard/lr_model.pkl")
+ann_model = joblib.load("IDS_Dashboard/ann_model.pkl")
+scaler = joblib.load("IDS_Dashboard/scaler.pkl")
+columns = joblib.load("IDS_Dashboard/columns.pkl")
 
 # -----------------------------
 # Title
