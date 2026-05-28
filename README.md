@@ -182,7 +182,6 @@ This project uses the **NSL-KDD Dataset** for intrusion detection research.
 # 👨‍💻 Author
 
 ## Yugal  
-M.Tech CSE, NIT Jalandhar
 
 ---
 
